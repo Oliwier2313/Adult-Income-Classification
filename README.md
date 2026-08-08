@@ -56,16 +56,6 @@ The dataset includes variables such as:
 - seaborn
 - Jupyter Notebook
 
-## Repository Structure
-
-```text
-Klasyfikacja_przychody/
-├── data/
-│   └── adult.csv
-├── Klasyfikacja_dochodu.ipynb
-├── README.md
-└── .gitignore
-```
 
 ## Methodology
 
